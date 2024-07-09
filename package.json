@@ -1,6 +1,7 @@
 {
   "name": "challenge-aluraflix",
   "private": true,
+  "homepage": "https://droycode.github.io/AluraFlixV2/build",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
