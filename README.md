@@ -1,3 +1,3 @@
 # React + Vite
 
-Versel: https://alura-flix-smoky.vercel.app/
+Vercel: https://alura-flix-smoky.vercel.app/
